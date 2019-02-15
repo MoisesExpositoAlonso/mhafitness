@@ -1,0 +1,20 @@
+PLINK v1.90b2n 64-bit (2 Nov 2014) 
+6 arguments: --bfile mha --out mha --recode A
+Hostname: burrito
+Working directory: /ebio/abt6_projects7/ath_1001G_field/acd6
+Start time: Fri Aug 17 15:19:19 2018
+
+Random number seed: 1534511959
+499850 MB RAM detected; reserving 249925 MB for main workspace.
+3 variants loaded from .bim file.
+1135 people (0 males, 0 females, 1135 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to mha.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1135 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.857269.
+3 variants and 1135 people pass filters and QC.
+Note: No phenotypes present.
+--recode A to mha.raw ... done.
+
+End time: Fri Aug 17 15:19:19 2018

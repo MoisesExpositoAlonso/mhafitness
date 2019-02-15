@@ -1,0 +1,9 @@
+new("big.matrix.descriptor"
+    , description = structure(list(sharedType = "FileBacked", filename = "mha.bk", 
+    dirname = "databig//", totalRows = 1135L, totalCols = 3L, 
+    rowOffset = c(0, 1135), colOffset = c(0, 3), nrow = 1135, 
+    ncol = 3, rowNames = NULL, colNames = NULL, type = "double", 
+    separated = FALSE), .Names = c("sharedType", "filename", 
+"dirname", "totalRows", "totalCols", "rowOffset", "colOffset", 
+"nrow", "ncol", "rowNames", "colNames", "type", "separated"))
+)
